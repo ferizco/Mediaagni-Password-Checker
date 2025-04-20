@@ -2,7 +2,7 @@
 
 **MediaAgni Password Checker** adalah alat berbasis web yang dirancang untuk membantu pengguna mengukur kekuatan password mereka serta memastikan apakah password tersebut pernah terlibat dalam kebocoran data publik. Semua proses berjalan langsung di sisi pengguna (client-side), memastikan privasi dan keamanan sepenuhnya terjaga.
 
-Versi saat ini: **v2.2.3**  
+Versi saat ini: **v2.3.1**  
 Dikembangkan oleh: [Ferizco](https://github.com/ferizco)  
 Live Demo: [mediaagni.com/p/password-strength-checker.html](https://www.mediaagni.com/p/password-strength-checker.html)
 
@@ -59,16 +59,6 @@ Kami sangat memprioritaskan **privasi dan keamanan pengguna**. Oleh karena itu, 
 
 MediaAgni Password Checker menggunakan lisensi **MIT**.
 
-```txt
-MIT License
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-Copyright (c) 2025 Ferizco
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights 
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell 
-copies of the Software, and to permit persons to whom the Software is 
-furnished to do so, subject to the following conditions:
-
-[...]

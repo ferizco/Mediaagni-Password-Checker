@@ -1,64 +1,69 @@
 # 🔐 MediaAgni Password Checker
 
-**MediaAgni Password Checker** adalah alat berbasis web yang dirancang untuk membantu pengguna mengukur kekuatan password mereka serta memastikan apakah password tersebut pernah terlibat dalam kebocoran data publik. Semua proses berjalan langsung di sisi pengguna (client-side), memastikan privasi dan keamanan sepenuhnya terjaga.
+**MediaAgni Password Checker** is a web-based tool designed to help users evaluate the strength of their passwords and check whether those passwords have appeared in any known data breaches. All processes run entirely on the **client-side**, ensuring full privacy and security for the user.
 
-Versi saat ini: **v2.3.1**  
-Dikembangkan oleh: [Ferizco](https://github.com/ferizco)  
+Current Version: **v2.3.1**  
+Developed by: [Ferizco](https://github.com/ferizco)  
 Live Demo: [mediaagni.com/p/password-strength-checker.html](https://www.mediaagni.com/p/password-strength-checker.html)
 
 ---
 
-## 🛠️ 1. Tentang Password Checker
+## 🛠️ 1. About This Tool
 
-Banyak pengguna internet masih menggunakan password yang lemah atau sudah bocor dalam berbagai insiden keamanan. Password checker ini hadir untuk:
+Many internet users still use weak or previously breached passwords, putting their accounts at risk. This password checker aims to:
 
-- Memberikan **edukasi langsung** tentang kekuatan password.
-- Mendorong pembuatan password yang lebih aman.
-- Menyediakan **alat gratis dan privat** untuk membantu pengguna melindungi akunnya.
-- Mengintegrasikan metode **k-anonymity** dari [Have I Been Pwned](https://haveibeenpwned.com/Passwords) agar dapat melakukan pengecekan kebocoran tanpa mengorbankan privasi.
+- Provide **real-time education** about password strength.
+- Encourage users to create **stronger and safer** passwords.
+- Offer a **free and private tool** to help users secure their accounts.
+- Integrate the **k-anonymity** method from [Have I Been Pwned](https://haveibeenpwned.com/Passwords) to check password breaches without compromising privacy.
 
 ---
 
-## ✨ 2. Fitur-Fitur Unggulan
+## ✨ 2. Key Features
 
-🔍 **Analisis Kekuatan Password**  
-- Menilai kekuatan berdasarkan panjang, huruf besar & kecil, angka, dan simbol.
-- Menampilkan indikator kekuatan dengan warna dan label yang mudah dimengerti.
+🔍 **Password Strength Analysis**  
+- Evaluates strength based on length, uppercase/lowercase letters, numbers, and symbols.
+- Visual strength indicator with color and clear labels.
 
-💡 **Saran untuk Memperkuat Password**  
-- Menampilkan tips real-time jika password kamu masih lemah.
+💡 **Suggestions to Strengthen Passwords**  
+- Displays helpful tips in real-time when a password is weak.
 
-🧠 **Pengecekan Password Bocor (HIBP)**  
-- Menggunakan SHA-1 + metode k-anonymity.
-- Aman: hanya 5 karakter awal hash yang dikirim ke server HIBP.
+🧠 **Breach Check (via HIBP)**  
+- Uses SHA-1 hashing and the k-anonymity model.
+- Safe: Only the **first 5 characters** of the hash are sent to HIBP.
 
-📋 **Salin Password dengan Mudah**  
-- Fitur "Copy to Clipboard" untuk menyalin password yang sudah dicek atau dibuat.
+📋 **Copy Password Easily**  
+- Includes a "Copy to Clipboard" feature for quick password reuse.
 
-🌗 **Mode Gelap (Dark Mode)**  
-- Desain responsif dan nyaman digunakan di berbagai perangkat, termasuk smartphone.
+🌗 **Dark Mode Support**  
+- Responsive, mobile-friendly design with full dark mode compatibility.
 
 ---
 
 ## ✅ 3. Public Assurance
 
-Kami sangat memprioritaskan **privasi dan keamanan pengguna**. Oleh karena itu, kami menyatakan:
+We are committed to ensuring **user privacy and data security**. Here's our public assurance:
 
-- ❌ **Tidak ada data password yang dikirim atau disimpan di server kami.**
-- ✅ Semua proses dilakukan langsung di **browser kamu** (client-side).
-- ✅ Menggunakan metode aman dan diakui secara global: **k-anonymity**.
-- ✅ Kode sumber terbuka untuk meningkatkan **transparansi** dan **kepercayaan publik**.
-- 🔍 Sudah melalui proses audit internal untuk memastikan tidak ada celah keamanan.
+- ❌ **No passwords are ever sent or stored** on any server.
+- ✅ All operations run securely in your **own browser**.
+- ✅ Uses the **k-anonymity model**, a globally recognized privacy-first approach.
+- ✅ Open-source to promote **transparency** and **trust**.
+- 🔍 Internally audited to ensure there are no security loopholes.
 
-🔗 Baca lebih lanjut tentang k-anonymity:  
-[Memahami Metode K-Anonymity - Medium](https://medium.com/@ferizco/memahami-metode-k-anonymity-cara-aman-hibp-melindungi-privasi-kata-sandi-anda-6111de0fe52e)
+🔗 Learn more about k-anonymity:  
+[Understanding K-Anonymity on Medium (by Ferizco)](https://medium.com/@ferizco/memahami-metode-k-anonymity-cara-aman-hibp-melindungi-privasi-kata-sandi-anda-6111de0fe52e)
 
 ---
 
-## ⚖️ 4. Lisensi
+## ⚖️ 4. License
 
-MediaAgni Password Checker menggunakan lisensi **MIT**.
+MediaAgni Password Checker is licensed under the **MIT License**.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
+You are free to use, modify, and distribute this tool for personal or commercial purposes, with proper attribution.
 
+---
+
+Thank you for using MediaAgni Password Checker!  
+Help spread cybersecurity awareness by sharing this tool. 🌍

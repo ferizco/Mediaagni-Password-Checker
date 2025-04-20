@@ -1,6 +1,6 @@
-# 🔐 MediaAgni Password Checker
+# 🔐 Mediaagni Password Checker
 
-**MediaAgni Password Checker** is a web-based tool designed to help users evaluate the strength of their passwords and check whether those passwords have appeared in any known data breaches. All processes run entirely on the **client-side**, ensuring full privacy and security for the user.
+**Mediaagni Password Checker** is a web-based tool designed to help users evaluate the strength of their passwords and check whether those passwords have appeared in any known data breaches. All processes run entirely on the **client-side**, ensuring full privacy and security for the user.
 
 Current Version: **v2.3.1**  
 Developed by: [Ferizco](https://github.com/ferizco)  
@@ -57,7 +57,7 @@ We are committed to ensuring **user privacy and data security**. Here's our publ
 
 ## ⚖️ 4. License
 
-MediaAgni Password Checker is licensed under the **MIT License**.
+Mediaagni Password Checker is licensed under the **MIT License**.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
@@ -65,5 +65,5 @@ You are free to use, modify, and distribute this tool for personal or commercial
 
 ---
 
-Thank you for using MediaAgni Password Checker!  
+Thank you for using Mediaagni Password Checker!  
 Help spread cybersecurity awareness by sharing this tool. 🌍

@@ -8,7 +8,7 @@ Live Demo: [mediaagni.com/p/password-strength-checker.html](https://www.mediaagn
 
 ---
 
-## 🛠️ 1. About This Tool
+## 1. About This Tool
 
 Many internet users still use weak or previously breached passwords, putting their accounts at risk. This password checker aims to:
 
@@ -19,43 +19,43 @@ Many internet users still use weak or previously breached passwords, putting the
 
 ---
 
-## ✨ 2. Key Features
+## 2. Key Features
 
-🔍 **Password Strength Analysis**  
+**Password Strength Analysis**  
 - Evaluates strength based on length, uppercase/lowercase letters, numbers, and symbols.
 - Visual strength indicator with color and clear labels.
 
-💡 **Suggestions to Strengthen Passwords**  
+**Suggestions to Strengthen Passwords**  
 - Displays helpful tips in real-time when a password is weak.
 
-🧠 **Breach Check (via HIBP)**  
+**Breach Check (via HIBP)**  
 - Uses SHA-1 hashing and the k-anonymity model.
 - Safe: Only the **first 5 characters** of the hash are sent to HIBP.
 
-📋 **Copy Password Easily**  
+**Copy Password Easily**  
 - Includes a "Copy to Clipboard" feature for quick password reuse.
 
-🌗 **Dark Mode Support**  
+**Dark Mode Support**  
 - Responsive, mobile-friendly design with full dark mode compatibility.
 
 ---
 
-## ✅ 3. Public Assurance
+## 3. Public Assurance
 
 We are committed to ensuring **user privacy and data security**. Here's our public assurance:
 
-- ❌ **No passwords are ever sent or stored** on any server.
-- ✅ All operations run securely in your **own browser**.
-- ✅ Uses the **k-anonymity model**, a globally recognized privacy-first approach.
-- ✅ Open-source to promote **transparency** and **trust**.
-- 🔍 Internally audited to ensure there are no security loopholes.
+- **No passwords are ever sent or stored** on any server.
+- All operations run securely in your **own browser**.
+- Uses the **k-anonymity model**, a globally recognized privacy-first approach.
+- Open-source to promote **transparency** and **trust**.
+- Internally audited to ensure there are no security loopholes.
 
 🔗 Learn more about k-anonymity:  
 [Understanding K-Anonymity on Medium (by Ferizco)](https://medium.com/@ferizco/memahami-metode-k-anonymity-cara-aman-hibp-melindungi-privasi-kata-sandi-anda-6111de0fe52e)
 
 ---
 
-## ⚖️ 4. License
+## 4. License
 
 Mediaagni Password Checker is licensed under the **MIT License**.
 
@@ -66,4 +66,4 @@ You are free to use, modify, and distribute this tool for personal or commercial
 ---
 
 Thank you for using Mediaagni Password Checker!  
-Help spread cybersecurity awareness by sharing this tool. 🌍
+Help spread cybersecurity awareness by sharing this tool. 
